@@ -7,9 +7,10 @@
 <div align="center">
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HundredSongs/WordPress-Blog-Theme/main/screenshot.png">
+    <source srcset="https://raw.githubusercontent.com/HundredSongs/WordPress-Blog-Theme/main/screenshot.png">
   </picture>
 </p>
+</div>
 
 
 ## Table of contents
