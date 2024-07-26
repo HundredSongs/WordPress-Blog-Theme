@@ -4,12 +4,9 @@
 <br>This is a Wordpress Theme made with Bootscore, PHP, HTML, CSS, Javascript && Bootstrap.
 
 <br>
+
 <div align="center">
-<p>
-  <picture>
-    <img src="https://raw.githubusercontent.com/HundredSongs/WordPress-Blog-Theme/main/screenshot.png">
-  </picture>
-</p>
+  <p><img src="https://raw.githubusercontent.com/HundredSongs/WordPress-Blog-Theme/main/screenshot.png" /></p>
 </div>
 
 
