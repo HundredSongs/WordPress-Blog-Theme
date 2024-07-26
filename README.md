@@ -7,7 +7,7 @@
 <div align="center">
 <p>
   <picture>
-    <source srcset="https://raw.githubusercontent.com/HundredSongs/WordPress-Blog-Theme/main/screenshot.png">
+    <img src="https://raw.githubusercontent.com/HundredSongs/WordPress-Blog-Theme/main/screenshot.png">
   </picture>
 </p>
 </div>
