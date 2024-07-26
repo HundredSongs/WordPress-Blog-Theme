@@ -7,7 +7,7 @@ This is a Wordpress Theme made with Bootscore, PHP, HTML, CSS, Javascript && Boo
 ## Table of contents
 - [Installation](#installation)
 
-##Instalation
+### Instalation
 1. Download latest release [WordPress-Blog-Theme.zip]((https://github.com/HundredSongs/WordPress-Blog-Theme/archive/refs/heads/main.zip)).
 2. Extract `WordPress-Blog-Theme.zip` files.
 3. Rename the main folder to `Bootscore` compress the files as `Bootscore.zip`
